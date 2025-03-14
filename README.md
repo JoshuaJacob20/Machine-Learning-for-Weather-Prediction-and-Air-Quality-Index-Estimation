@@ -1,0 +1,2 @@
+# Machine-Learning-for-Weather-Prediction-and-Air-Quality-Index-Estimation
+Developed an AI-driven weather forecasting and AQI system using Django on AWS EC2, integrating OpenWeather API data. Improved accuracy with Random Forest and optimized backend using Nginx. Built a ReactJS frontend on AWS S3 &amp; CloudFront and deployed a WebView mobile app for seamless, cross-platform access to real-time insights.
